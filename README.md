@@ -1,1 +1,1 @@
-# calculo_eletricidade_basica
+Esses são os projetos sobre eletricidade,planejo adcionar ainda mais no futuro. Espero ter ajudado!!!
